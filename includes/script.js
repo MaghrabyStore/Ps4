@@ -14,7 +14,7 @@ const lapseRadio = document.getElementById("lapse-exploit");
 const kexForm = document.getElementById('kernel-options');
 
 // Show user agent
-UAElement.innerText += " " + navigator.userAgent;
+UAElement.innerText = "PS4 Jailbreak 6.00 - 11.02";
 
 kexForm.addEventListener("change", function (event) {
     localStorage.setItem("exploitChain", event.target.value);
@@ -77,7 +77,7 @@ function displayCacheProgress() {
     }, 1000);
     setTimeout(function () {
         // location.reload();
-        document.title = "CSSFontFace exploit";
+        document.title = "MAGHRABY STORE";
     }, 3000);
 }
 
