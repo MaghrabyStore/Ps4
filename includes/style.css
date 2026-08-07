@@ -1,7 +1,5 @@
 body {
-    background: url("bg.jpg") no-repeat center center fixed;
-    background-size: cover;
-
+    background: #111111;
     color: #dddddd;
     margin: 0;
     padding: 20px;
